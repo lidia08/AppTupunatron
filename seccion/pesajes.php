@@ -10,7 +10,7 @@ $lista_pesaje=$sentenciaSQL->FetchAll(PDO::FETCH_ASSOC);
 
 ?>
 
-<div class="col-md-12">
+<div class="col-md-12 text-center">
     <h3>PESAJES EN TIEMPO REAL </h3> 
     <br/>
     <table class="table table-bordered">

@@ -2,10 +2,10 @@ const mysql = require('mysql');
 const mqtt = require('mqtt');
 var con = mysql.createConnection({
 
-    host: "localhost",
-    user: "root",
-    password: "",
-    database: "tt_basedatos"
+    host: "localhost", 
+    user: "root",//  "tupunat1_root",// "root",
+    password: "",// "2021tupunat1_bd",//"",
+    database: "tt_basedatos"// "tupunat1_tt_basedatos"//"tt_basedatos"
 
 });
 

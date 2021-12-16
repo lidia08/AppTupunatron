@@ -4,7 +4,7 @@
 
         <div class="jumbotron text-center">
             <h1 class="display-3">Bienvenido <?php echo $nombre_usuario ;?> </h1>
-            <p class="lead">En esta plataforma podrá monitorear sus equipos en tiempo real</p>         
+            <p class="lead">En esta plataforma podrás monitorear tus equipos en tiempo real</p>         
         </div>
 
     </div>   

@@ -1,0 +1,13 @@
+body{
+    background: url(../img/t-cloud_background.png) no-repeat ;
+    background-size: 100%;
+    background-attachment: fixed;
+}
+
+.formulario{
+    color: #131C4E;
+}
+.ingresar{
+    background: #131C4E;
+
+}

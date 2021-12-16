@@ -21,7 +21,7 @@ else{
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-
+    
   </head>
 
   <body>
@@ -43,12 +43,6 @@ else{
             </li>
             <li class="nav-item">
               <a class="nav-link" href="<?php echo $url;?>/seccion/pesajes.php">Pesajes</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="<?php echo $url;?>/seccion/reporte.php">Reporte</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="<?php echo $url;?>/seccion/configuracion.php">Configuracion</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="<?php echo $url;?>/seccion/cerrar.php">Cerrar Sesion</a>
